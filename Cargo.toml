@@ -1,0 +1,4 @@
+[package]
+name = "rust_ipc"
+version = "0.1.0"
+authors = ["Paul LaCrosse <paul.lacrosse@gmail.com>"]
